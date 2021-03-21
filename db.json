@@ -1,0 +1,33 @@
+{
+  "doctors": [
+    {
+      "name": "Akshay",
+      "mail": "Kummar",
+      "spec": "Nevrolog",
+      "dep": "Nevrologiya",
+      "date": [
+        "Du",
+        "Chor",
+        "Juma"
+      ],
+      "id": 1
+    }
+  ],
+  "bemors": [
+    {
+      "name": "Katrina",
+      "mail": "Kayd",
+      "phone": "99329289",
+      "img": "",
+      "wDoc": "Akshay",
+      "why": "crazy",
+      "id": 1
+    }
+  ],
+  "parts": [
+    {
+      "name": "Nevrologiya",
+      "id": 1
+    }
+  ]
+}
